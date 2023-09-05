@@ -1,5 +1,5 @@
 # Sport-Stadium-Database
-Sport Stadium Database ( Mysql )
+Mysql Workbench & SQL ( DDL - DML )
 ---
 
 - **Conceptual Database Design: ER Diagram**
