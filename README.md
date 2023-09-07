@@ -26,3 +26,4 @@ I developed expertise in querying the MySQL database to extract meaningful infor
   
 I also worked on creating and managing views in MySQL. Views offer a convenient way to encapsulate complex queries and provide a simplified interface for end-users. By mastering the creation and utilization of views, I enhanced the database's accessibility and usability, allowing for more efficient data retrieval and reporting.
 
+
